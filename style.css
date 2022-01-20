@@ -1,0 +1,33 @@
+.div-buttons {
+    margin: 1% 5%;
+    text-align: center;
+}
+
+.space-buttons {
+    padding: 5%;
+}
+
+.space-10 {
+    margin-right: 10%;
+}
+
+.pilha {
+    padding: 5% 15%;
+    text-align: center;
+}
+
+.pilha-no {
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid rgb(114, 38, 38);
+    border-radius: 2px;
+    font-size: 30px;
+    width: 10vh;
+    text-align: center;
+    font-weight: 300;
+}
+
+.pilha-topo {
+    border: 2px solid #141;
+    background-color: #e1f5fe;
+}
